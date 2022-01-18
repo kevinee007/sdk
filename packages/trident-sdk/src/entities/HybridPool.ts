@@ -6,7 +6,7 @@ import {
   Price,
   Token,
   ZERO,
-} from '@sushiswap/core-sdk'
+} from '@candle/core-sdk'
 import { computeHybridLiquidity, computeHybridPoolAddress } from '../functions'
 
 import { A_PRECISION } from '../constants'

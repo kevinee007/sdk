@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/core-sdk",
+  "name": "@candle/core-sdk",
   "version": "1.0.0-canary.52",
   "license": "MIT",
   "main": "dist/index.js",

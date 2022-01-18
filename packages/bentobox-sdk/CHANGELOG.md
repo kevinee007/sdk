@@ -3,41 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.37](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.36...@sushiswap/bentobox-sdk@1.0.0-canary.37) (2022-01-17)
+# [1.0.0-canary.37](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.36...@candle/bentobox-sdk@1.0.0-canary.37) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
-
-
-
-
-
-# [1.0.0-canary.36](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.35...@sushiswap/bentobox-sdk@1.0.0-canary.36) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
 
 
-# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.34...@sushiswap/bentobox-sdk@1.0.0-canary.35) (2022-01-17)
+# [1.0.0-canary.36](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.35...@candle/bentobox-sdk@1.0.0-canary.36) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
-
-
-
-
-
-# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.33...@sushiswap/bentobox-sdk@1.0.0-canary.34) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
 
 
-# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.32...@sushiswap/bentobox-sdk@1.0.0-canary.33) (2022-01-17)
+# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.34...@candle/bentobox-sdk@1.0.0-canary.35) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
+
+
+
+
+
+# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.33...@candle/bentobox-sdk@1.0.0-canary.34) (2022-01-17)
+
+**Note:** Version bump only for package @candle/bentobox-sdk
+
+
+
+
+
+# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.32...@candle/bentobox-sdk@1.0.0-canary.33) (2022-01-17)
+
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -45,7 +45,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.32 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -53,7 +53,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.31 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -61,15 +61,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.30 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
 
 
-# [1.0.0-canary.29](https://github.com/sushiswap/sdk/compare/@sushiswap/bentobox-sdk@1.0.0-canary.28...@sushiswap/bentobox-sdk@1.0.0-canary.29) (2022-01-14)
+# [1.0.0-canary.29](https://github.com/sushiswap/sdk/compare/@candle/bentobox-sdk@1.0.0-canary.28...@candle/bentobox-sdk@1.0.0-canary.29) (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.28 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -85,7 +85,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.27 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.26 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -101,7 +101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.25 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.23 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk
 
 
 
@@ -128,4 +128,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.22 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/bentobox-sdk
+**Note:** Version bump only for package @candle/bentobox-sdk

@@ -3,41 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.34...@sushiswap/tines@1.0.0-canary.35) (2022-01-17)
+# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.34...@candle/tines@1.0.0-canary.35) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
-
-
-
-
-
-# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.33...@sushiswap/tines@1.0.0-canary.34) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
 
 
-# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.32...@sushiswap/tines@1.0.0-canary.33) (2022-01-17)
+# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.33...@candle/tines@1.0.0-canary.34) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
-
-
-
-
-
-# [1.0.0-canary.32](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.31...@sushiswap/tines@1.0.0-canary.32) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
 
 
-# [1.0.0-canary.31](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.30...@sushiswap/tines@1.0.0-canary.31) (2022-01-17)
+# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.32...@candle/tines@1.0.0-canary.33) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
+
+
+
+
+
+# [1.0.0-canary.32](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.31...@candle/tines@1.0.0-canary.32) (2022-01-17)
+
+**Note:** Version bump only for package @candle/tines
+
+
+
+
+
+# [1.0.0-canary.31](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.30...@candle/tines@1.0.0-canary.31) (2022-01-17)
+
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -45,7 +45,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.30 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -53,7 +53,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.29 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -61,15 +61,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.28 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
 
 
-# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.26...@sushiswap/tines@1.0.0-canary.27) (2022-01-14)
+# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@candle/tines@1.0.0-canary.26...@candle/tines@1.0.0-canary.27) (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.26 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -85,7 +85,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.25 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.24 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -101,7 +101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.23 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.21 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines
 
 
 
@@ -128,4 +128,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.20 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @candle/tines

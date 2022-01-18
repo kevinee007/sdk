@@ -10,7 +10,7 @@ import {
   Token,
   ZERO,
   sqrt,
-} from '@sushiswap/core-sdk'
+} from '@candle/core-sdk'
 import { Fee } from '../enums/Fee'
 import JSBI from 'jsbi'
 import { MAX_FEE } from '../constants'

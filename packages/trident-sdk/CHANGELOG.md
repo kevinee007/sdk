@@ -3,41 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.61...@sushiswap/trident-sdk@1.0.0-canary.62) (2022-01-17)
+# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.61...@candle/trident-sdk@1.0.0-canary.62) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
-
-
-
-
-
-# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.60...@sushiswap/trident-sdk@1.0.0-canary.61) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
 
 
-# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.59...@sushiswap/trident-sdk@1.0.0-canary.60) (2022-01-17)
+# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.60...@candle/trident-sdk@1.0.0-canary.61) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
-
-
-
-
-
-# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.58...@sushiswap/trident-sdk@1.0.0-canary.59) (2022-01-17)
-
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
 
 
-# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.57...@sushiswap/trident-sdk@1.0.0-canary.58) (2022-01-17)
+# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.59...@candle/trident-sdk@1.0.0-canary.60) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
+
+
+
+
+
+# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.58...@candle/trident-sdk@1.0.0-canary.59) (2022-01-17)
+
+**Note:** Version bump only for package @candle/trident-sdk
+
+
+
+
+
+# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.57...@candle/trident-sdk@1.0.0-canary.58) (2022-01-17)
+
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -45,7 +45,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.57 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -53,7 +53,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.56 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -61,15 +61,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.55 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
 
 
-# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@sushiswap/trident-sdk@1.0.0-canary.53...@sushiswap/trident-sdk@1.0.0-canary.54) (2022-01-14)
+# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@candle/trident-sdk@1.0.0-canary.53...@candle/trident-sdk@1.0.0-canary.54) (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.53 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -85,7 +85,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.52 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.51 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -101,7 +101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.50 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.48 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk
 
 
 
@@ -128,4 +128,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.47 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/trident-sdk
+**Note:** Version bump only for package @candle/trident-sdk

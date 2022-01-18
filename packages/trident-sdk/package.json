@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/trident-sdk",
+  "name": "@candle/trident-sdk",
   "version": "1.0.0-canary.62",
   "license": "MIT",
   "main": "dist/index.js",
@@ -26,8 +26,8 @@
   "dependencies": {
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/bignumber": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.52",
-    "@sushiswap/tines": "1.0.0-canary.35",
+    "@candle/core-sdk": "1.0.0-canary.52",
+    "@candle/tines": "1.0.0-canary.35",
     "@sushiswap/trident": "1.0.0-canary.27",
     "tiny-invariant": "^1.1.0"
   },

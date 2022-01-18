@@ -1,4 +1,4 @@
-import { ChainId, ChainKey, JSBI, Token } from '@sushiswap/core-sdk'
+import { ChainId, ChainKey, JSBI, Token } from '@candle/core-sdk'
 
 import { Fee } from '../enums/Fee'
 import EXPORTS from '@sushiswap/trident/exports/all.json'
