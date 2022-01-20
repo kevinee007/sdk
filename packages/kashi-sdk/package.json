@@ -9,7 +9,7 @@
   ],
   "module": "dist/kashi-sdk.esm.js",
   "repository": {
-    "url": "candle/sdk",
+    "url": "candleplatforms/sdk",
     "directory": "packages/kashi-sdk"
   },
   "publishConfig": {

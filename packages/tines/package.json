@@ -9,7 +9,7 @@
   ],
   "module": "dist/tines.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "candlelabs/sdk",
     "directory": "packages/tines"
   },
   "publishConfig": {
