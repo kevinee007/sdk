@@ -1,7 +1,7 @@
-import { Percent, CurrencyAmount, Currency, validateAndParseAddress, TradeType } from '@candle/core-sdk'
+import { Percent, CurrencyAmount, Currency, validateAndParseAddress, TradeType } from '@candlelabs/core-sdk'
 import { Trade } from './entities/Trade'
 import invariant from 'tiny-invariant'
-import { RouteLeg } from '@candle/tines'
+import { RouteLeg } from '@candlelabs/tines'
 
 /**
  * Options for producing the arguments to send call to the router.

@@ -1,5 +1,5 @@
 {
-  "name": "@candle/kashi-sdk",
+  "name": "@candlelabs/kashi-sdk",
   "version": "1.0.0-canary.28",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/kashi-sdk.esm.js",
   "repository": {
-    "url": "candle/sdk",
+    "url": "candleplatforms/sdk",
     "directory": "packages/kashi-sdk"
   },
   "publishConfig": {

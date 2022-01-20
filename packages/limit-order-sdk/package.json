@@ -1,5 +1,5 @@
 {
-  "name": "@candle/limit-order-sdk",
+  "name": "@candlelabs/limit-order-sdk",
   "version": "1.0.0-canary.38",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/limit-order-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "candleplatforms/sdk",
     "directory": "packages/limit-order-sdk"
   },
   "publishConfig": {
