@@ -9,7 +9,7 @@
   ],
   "module": "dist/core-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "candlelabs/sdk",
     "directory": "packages/core-sdk"
   },
   "publishConfig": {

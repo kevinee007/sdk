@@ -1,6 +1,6 @@
 {
-  "name": "sdk",
-  "private": true,
+  "name": "@candlelabs/sdk",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],

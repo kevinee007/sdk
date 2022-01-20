@@ -1,4 +1,4 @@
-# SushiSwap SDK Monorepo
+# Candle SDK Monorepo
 
 ## Prerequisites
 
