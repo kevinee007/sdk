@@ -3,41 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.26...@candle/miso-sdk@1.0.0-canary.27) (2022-01-17)
+# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.26...@candlelabs/miso-sdk@1.0.0-canary.27) (2022-01-17)
 
-**Note:** Version bump only for package @candle/miso-sdk
-
-
-
-
-
-# [1.0.0-canary.26](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.25...@candle/miso-sdk@1.0.0-canary.26) (2022-01-17)
-
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
 
 
-# [1.0.0-canary.25](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.24...@candle/miso-sdk@1.0.0-canary.25) (2022-01-17)
+# [1.0.0-canary.26](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.25...@candlelabs/miso-sdk@1.0.0-canary.26) (2022-01-17)
 
-**Note:** Version bump only for package @candle/miso-sdk
-
-
-
-
-
-# [1.0.0-canary.24](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.23...@candle/miso-sdk@1.0.0-canary.24) (2022-01-17)
-
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
 
 
-# [1.0.0-canary.23](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.22...@candle/miso-sdk@1.0.0-canary.23) (2022-01-17)
+# [1.0.0-canary.25](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.24...@candlelabs/miso-sdk@1.0.0-canary.25) (2022-01-17)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
+
+
+
+
+
+# [1.0.0-canary.24](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.23...@candlelabs/miso-sdk@1.0.0-canary.24) (2022-01-17)
+
+**Note:** Version bump only for package @candlelabs/miso-sdk
+
+
+
+
+
+# [1.0.0-canary.23](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.22...@candlelabs/miso-sdk@1.0.0-canary.23) (2022-01-17)
+
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -45,7 +45,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.22 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -53,7 +53,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.21 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -61,15 +61,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.20 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
 
 
-# [1.0.0-canary.19](https://github.com/sushiswap/sdk/compare/@candle/miso-sdk@1.0.0-canary.18...@candle/miso-sdk@1.0.0-canary.19) (2022-01-14)
+# [1.0.0-canary.19](https://github.com/sushiswap/sdk/compare/@candlelabs/miso-sdk@1.0.0-canary.18...@candlelabs/miso-sdk@1.0.0-canary.19) (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.18 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -85,7 +85,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.17 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.16 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -101,7 +101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.15 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.13 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk
 
 
 
@@ -128,4 +128,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.12 (2022-01-14)
 
-**Note:** Version bump only for package @candle/miso-sdk
+**Note:** Version bump only for package @candlelabs/miso-sdk

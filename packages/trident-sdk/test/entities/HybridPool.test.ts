@@ -8,7 +8,7 @@ import {
   USDC_ADDRESS,
   WETH9,
   WETH9_ADDRESS,
-} from '@candle/core-sdk'
+} from '@candlelabs/core-sdk'
 
 import { A_PRECISION } from '../../src/constants'
 import { HybridPool } from '../../src/entities/HybridPool'

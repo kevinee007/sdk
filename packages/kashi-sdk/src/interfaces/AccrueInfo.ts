@@ -1,4 +1,4 @@
-import { JSBI } from '@candle/core-sdk'
+import { JSBI } from '@candlelabs/core-sdk'
 
 export interface AccrueInfo {
   interestPerSecond: JSBI

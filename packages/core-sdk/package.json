@@ -1,6 +1,6 @@
 {
-  "name": "@candle/core-sdk",
-  "version": "1.0.0-canary.52",
+  "name": "@candlelabs/core-sdk",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/core-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "candleplatforms/sdk",
     "directory": "packages/core-sdk"
   },
   "publishConfig": {

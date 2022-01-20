@@ -13,7 +13,7 @@ import {
 
 import { BigNumber } from '@ethersproject/bignumber'
 import { KashiMediumRiskLendingPair } from '../entities'
-import { ZERO, JSBI } from '@candle/core-sdk'
+import { ZERO, JSBI } from '@candlelabs/core-sdk'
 
 export function accrue(pair: KashiMediumRiskLendingPair, amount: JSBI, includePrincipal = false): JSBI {
   return JSBI.add(

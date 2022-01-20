@@ -1,5 +1,5 @@
 {
-  "name": "@candle/bentobox-sdk",
+  "name": "@candlelabs/bentobox-sdk",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@candle/core-sdk": "1.0.0"
+    "@candlelabs/core-sdk": "1.0.0"
   },
   "devDependencies": {
     "tsdx": "^0.14.1"

@@ -1,4 +1,4 @@
-import { AddressMap, ChainId } from '@candle/core-sdk'
+import { AddressMap, ChainId } from '@candlelabs/core-sdk'
 
 export const LAMBDA_URL = 'https://9epjsvomc4.execute-api.us-east-1.amazonaws.com/dev'
 

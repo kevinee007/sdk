@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { Pair } from '@candle/core-sdk'
-import { ConstantProductRPool, RPool, RToken } from '@candle/tines'
+import { Pair } from '@candlelabs/core-sdk'
+import { ConstantProductRPool, RPool, RToken } from '@candlelabs/tines'
 import { Pool } from '../entities/Pool'
 import { ConstantProductPool } from '../entities/ConstantProductPool'
 import { Fee } from '../enums/Fee'

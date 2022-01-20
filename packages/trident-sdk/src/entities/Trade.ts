@@ -1,5 +1,5 @@
-import { Currency, CurrencyAmount, Percent, Price, TradeType, ZERO, JSBI, Fraction, ONE } from '@candle/core-sdk'
-import { MultiRoute, RToken } from '@candle/tines'
+import { Currency, CurrencyAmount, Percent, Price, TradeType, ZERO, JSBI, Fraction, ONE } from '@candlelabs/core-sdk'
+import { MultiRoute, RToken } from '@candlelabs/tines'
 import invariant from 'tiny-invariant'
 
 /**

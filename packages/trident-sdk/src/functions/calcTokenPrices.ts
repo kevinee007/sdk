@@ -1,5 +1,5 @@
-import { Pair, Price, Token } from '@candle/core-sdk'
-import { calcTokenPrices as TinesCalcTokenPrices, RToken } from '@candle/tines'
+import { Pair, Price, Token } from '@candlelabs/core-sdk'
+import { calcTokenPrices as TinesCalcTokenPrices, RToken } from '@candlelabs/tines'
 import { convertPoolOrPairtoRPool } from './convertPoolOrPairtoRPool'
 import { Pool } from '../entities/Pool'
 

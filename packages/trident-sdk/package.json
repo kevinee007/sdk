@@ -1,6 +1,6 @@
 {
-  "name": "@candle/trident-sdk",
-  "version": "1.0.0-canary.62",
+  "name": "@candlelabs/trident-sdk",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -26,8 +26,8 @@
   "dependencies": {
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/bignumber": "^5.4.0",
-    "@candle/core-sdk": "1.0.0-canary.52",
-    "@candle/tines": "1.0.0-canary.35",
+    "@candlelabs/core-sdk": "1.0.0-canary.52",
+    "@candlelabs/tines": "1.0.0-canary.35",
     "@sushiswap/trident": "1.0.0-canary.27",
     "tiny-invariant": "^1.1.0"
   },
