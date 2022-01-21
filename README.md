@@ -18,13 +18,13 @@ yarn run lerna publish from-package --dist-tag canary --no-git-reset --no-verify
 ### Testing
 
 ```sh 
-yarn workspace @candle/core-sdk test
+yarn workspace @candlelabs/core-sdk test
 ```
 
 ### Build
 
 ```sh 
-yarn workspace @candle/core-sdk build
+yarn workspace @candlelabs/core-sdk build
 ```
 
 ## Limit Order SDK
@@ -32,13 +32,13 @@ yarn workspace @candle/core-sdk build
 ### Testing
 
 ```sh 
-yarn workspace @candle/limit-order-sdk test
+yarn workspace @candlelabs/limit-order-sdk test
 ```
 
 ### Build
 
 ```sh 
-yarn workspace @candle/limit-order-sdk build
+yarn workspace @candlelabs/limit-order-sdk build
 ```
 
 ## Trident SDK
@@ -46,13 +46,13 @@ yarn workspace @candle/limit-order-sdk build
 ### Testing
 
 ```sh 
-yarn workspace @candle/trident-sdk test
+yarn workspace @candlelabs/trident-sdk test
 ```
 
 ### Build
 
 ```sh 
-yarn workspace @candle/trident-sdk build
+yarn workspace @candlelabs/trident-sdk build
 ```
 
 ## Tines SDK
@@ -60,11 +60,11 @@ yarn workspace @candle/trident-sdk build
 ### Testing
 
 ```sh 
-yarn workspace @candle/tines test
+yarn workspace @candlelabs/tines test
 ```
 
 ### Build
 
 ```sh 
-yarn workspace @candle/tines build
+yarn workspace @candlelabs/tines build
 ```

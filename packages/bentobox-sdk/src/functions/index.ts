@@ -1,4 +1,4 @@
-import { ZERO, JSBI, Rebase } from '@candle/core-sdk'
+import { ZERO, JSBI, Rebase } from '@candlelabs/core-sdk'
 
 export function toAmount(token: Rebase, shares: JSBI): JSBI {
   return JSBI.GT(token.base, 0) ? JSBI.divide(JSBI.multiply(shares, token.elastic), token.base) : ZERO

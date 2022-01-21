@@ -1,9 +1,9 @@
-import { Currency, Pair, Route } from '@candle/core-sdk'
+import { Currency, Pair, Route } from '@candlelabs/core-sdk'
 import {
 
   MultiRoute,
 
-} from '@candle/tines'
+} from '@candlelabs/tines'
 
 export function convertTinesSingleRouteToLegacyRoute<TInput extends Currency, TOutput extends Currency>(
   route: MultiRoute,

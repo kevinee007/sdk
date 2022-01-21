@@ -1,4 +1,4 @@
-import { BENTOBOX_ADDRESS, ChainId } from '@candle/core-sdk'
+import { BENTOBOX_ADDRESS, ChainId } from '@candlelabs/core-sdk'
 import { bentoTypes, name, types } from './types'
 
 import { STOP_LIMIT_ORDER_ADDRESS } from './constants'

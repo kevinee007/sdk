@@ -1,4 +1,4 @@
-import { JSBI, ChainId, AddressMap } from '@candle/core-sdk'
+import { JSBI, ChainId, AddressMap } from '@candlelabs/core-sdk'
 
 export const A_PRECISION = JSBI.BigInt(100)
 export const MAX_FEE = JSBI.BigInt(10000)

@@ -8,7 +8,7 @@ import {
   USDC_ADDRESS,
   WETH9,
   WETH9_ADDRESS,
-} from '@candle/core-sdk'
+} from '@candlelabs/core-sdk'
 
 import { ConstantProductPool } from '../../src/entities/ConstantProductPool'
 import all from '@sushiswap/trident/exports/all.json'

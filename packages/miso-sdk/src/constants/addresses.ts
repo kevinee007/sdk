@@ -1,4 +1,4 @@
-import { AddressMap } from "@candle/core-sdk"
+import { AddressMap } from "@candlelabs/core-sdk"
 
 export const MISO_TOKEN_FACTORY_ADDRESS: AddressMap = {}
 

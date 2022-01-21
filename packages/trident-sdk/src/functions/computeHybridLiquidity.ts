@@ -1,4 +1,4 @@
-import { JSBI, ONE, ZERO, difference } from '@candle/core-sdk'
+import { JSBI, ONE, ZERO, difference } from '@candlelabs/core-sdk'
 
 import { A_PRECISION } from '../constants'
 

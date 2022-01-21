@@ -6,7 +6,7 @@ import {
   Price,
   Token,
   ZERO,
-} from '@candle/core-sdk'
+} from '@candlelabs/core-sdk'
 import { computeHybridLiquidity, computeHybridPoolAddress } from '../functions'
 
 import { A_PRECISION } from '../constants'

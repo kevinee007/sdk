@@ -1,5 +1,5 @@
 import { AccrueInfo } from './AccrueInfo'
-import { Rebase, JSBI } from '@candle/core-sdk'
+import { Rebase, JSBI } from '@candlelabs/core-sdk'
 
 export interface KashiPair {
   readonly accrueInfo: AccrueInfo

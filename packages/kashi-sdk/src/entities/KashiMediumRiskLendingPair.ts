@@ -1,6 +1,6 @@
-import { JSBI, Rebase, ZERO, maximum, minimum, toElastic, Token } from '@candle/core-sdk'
+import { JSBI, Rebase, ZERO, maximum, minimum, toElastic, Token } from '@candlelabs/core-sdk'
 import { accrue, accrueTotalAssetWithFee, interestAccrue, takeFee, computePairAddress } from '../functions'
-import { toAmount, toShare } from '@candle/bentobox-sdk'
+import { toAmount, toShare } from '@candlelabs/bentobox-sdk'
 
 import { AccrueInfo } from '../interfaces'
 

@@ -1,4 +1,4 @@
-import { ChainId, CurrencyAmount, Price, Token } from '@candle/core-sdk'
+import { ChainId, CurrencyAmount, Price, Token } from '@candlelabs/core-sdk'
 
 import { Fee } from '../enums/Fee'
 
