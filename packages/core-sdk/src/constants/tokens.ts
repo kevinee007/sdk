@@ -1,4 +1,4 @@
-import { USDC_ADDRESS, USD_ADDRESS, WETH9_ADDRESS, WNATIVE_ADDRESS, CNDL_ADDRESS } from './addresses'
+import { USDC_ADDRESS, USD_ADDRESS, WETH9_ADDRESS, WNATIVE_ADDRESS, CANDLE_ADDRESS } from './addresses'
 
 import { ChainId } from '../enums'
 import { Token } from '../entities/Token'
@@ -137,22 +137,22 @@ export const WNATIVE: TokenMap = {
 }
 
 export const CNDL: ChainTokenMap = {
-  [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, CNDL_ADDRESS[ChainId.ETHEREUM], 18, 'CNDL', 'Candle'),
-  [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, CNDL_ADDRESS[ChainId.ROPSTEN], 18, 'CNDL', 'Candle'),
-  [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, CNDL_ADDRESS[ChainId.RINKEBY], 18, 'CNDL', 'Candle'),
-  [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, CNDL_ADDRESS[ChainId.GÖRLI], 18, 'CNDL', 'Candle'),
-  [ChainId.KOVAN]: new Token(ChainId.KOVAN, CNDL_ADDRESS[ChainId.KOVAN], 18, 'CNDL', 'Candle'),
-  [ChainId.MATIC]: new Token(ChainId.MATIC, CNDL_ADDRESS[ChainId.MATIC], 18, 'CNDL', 'Candle'),
-  [ChainId.FANTOM]: new Token(ChainId.FANTOM, CNDL_ADDRESS[ChainId.FANTOM], 18, 'CNDL', 'Candle'),
-  [ChainId.XDAI]: new Token(ChainId.XDAI, CNDL_ADDRESS[ChainId.XDAI], 18, 'CNDL', 'Candle'),
-  [ChainId.BSC]: new Token(ChainId.BSC, CNDL_ADDRESS[ChainId.BSC], 18, 'CNDL', 'Candle'),
-  [ChainId.ARBITRUM]: new Token(ChainId.ARBITRUM, CNDL_ADDRESS[ChainId.ARBITRUM], 18, 'CNDL', 'Candle'),
-  [ChainId.AVALANCHE]: new Token(ChainId.AVALANCHE, CNDL_ADDRESS[ChainId.AVALANCHE], 18, 'CNDL', 'Candle'),
-  [ChainId.OKEX]: new Token(ChainId.OKEX, CNDL_ADDRESS[ChainId.OKEX], 18, 'CNDL', 'Candle'),
-  [ChainId.HARMONY]: new Token(ChainId.HARMONY, CNDL_ADDRESS[ChainId.HARMONY], 18, 'CNDL', 'Candle'),
-  [ChainId.HECO]: new Token(ChainId.HECO, CNDL_ADDRESS[ChainId.HECO], 18, 'CNDL', 'Candle'),
-  [ChainId.CELO]: new Token(ChainId.CELO, CNDL_ADDRESS[ChainId.CELO], 18, 'CNDL', 'Candle'),
-  [ChainId.MOONRIVER]: new Token(ChainId.MOONRIVER, CNDL_ADDRESS[ChainId.MOONRIVER], 18, 'CNDL', 'Candle'),
-  [ChainId.FUSE]: new Token(ChainId.FUSE, CNDL_ADDRESS[ChainId.FUSE], 18, 'CNDL', 'Candle'),
-  [ChainId.TELOS]: new Token(ChainId.TELOS, CNDL_ADDRESS[ChainId.TELOS], 18, 'CNDL', 'Candle'),
+  [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, CANDLE_ADDRESS[ChainId.ETHEREUM], 18, 'CNDL', 'Candle'),
+  [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, CANDLE_ADDRESS[ChainId.ROPSTEN], 18, 'CNDL', 'Candle'),
+  [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, CANDLE_ADDRESS[ChainId.RINKEBY], 18, 'CNDL', 'Candle'),
+  [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, CANDLE_ADDRESS[ChainId.GÖRLI], 18, 'CNDL', 'Candle'),
+  [ChainId.KOVAN]: new Token(ChainId.KOVAN, CANDLE_ADDRESS[ChainId.KOVAN], 18, 'CNDL', 'Candle'),
+  [ChainId.MATIC]: new Token(ChainId.MATIC, CANDLE_ADDRESS[ChainId.MATIC], 18, 'CNDL', 'Candle'),
+  [ChainId.FANTOM]: new Token(ChainId.FANTOM, CANDLE_ADDRESS[ChainId.FANTOM], 18, 'CNDL', 'Candle'),
+  [ChainId.XDAI]: new Token(ChainId.XDAI, CANDLE_ADDRESS[ChainId.XDAI], 18, 'CNDL', 'Candle'),
+  [ChainId.BSC]: new Token(ChainId.BSC, CANDLE_ADDRESS[ChainId.BSC], 18, 'CNDL', 'Candle'),
+  [ChainId.ARBITRUM]: new Token(ChainId.ARBITRUM, CANDLE_ADDRESS[ChainId.ARBITRUM], 18, 'CNDL', 'Candle'),
+  [ChainId.AVALANCHE]: new Token(ChainId.AVALANCHE, CANDLE_ADDRESS[ChainId.AVALANCHE], 18, 'CNDL', 'Candle'),
+  [ChainId.OKEX]: new Token(ChainId.OKEX, CANDLE_ADDRESS[ChainId.OKEX], 18, 'CNDL', 'Candle'),
+  [ChainId.HARMONY]: new Token(ChainId.HARMONY, CANDLE_ADDRESS[ChainId.HARMONY], 18, 'CNDL', 'Candle'),
+  [ChainId.HECO]: new Token(ChainId.HECO, CANDLE_ADDRESS[ChainId.HECO], 18, 'CNDL', 'Candle'),
+  [ChainId.CELO]: new Token(ChainId.CELO, CANDLE_ADDRESS[ChainId.CELO], 18, 'CNDL', 'Candle'),
+  [ChainId.MOONRIVER]: new Token(ChainId.MOONRIVER, CANDLE_ADDRESS[ChainId.MOONRIVER], 18, 'CNDL', 'Candle'),
+  [ChainId.FUSE]: new Token(ChainId.FUSE, CANDLE_ADDRESS[ChainId.FUSE], 18, 'CNDL', 'Candle'),
+  [ChainId.TELOS]: new Token(ChainId.TELOS, CANDLE_ADDRESS[ChainId.TELOS], 18, 'CNDL', 'Candle'),
 }

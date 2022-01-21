@@ -1,7 +1,7 @@
 import { AddressMap } from '../types'
 import { ChainId } from '../enums'
 
-export const CNDL_ADDRESS: AddressMap = {
+export const CANDLE_ADDRESS: AddressMap = {
   [ChainId.ETHEREUM]: '0xbc138bD20C98186CC0342C8e380953aF0cb48BA8',
   [ChainId.ROPSTEN]: '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
   [ChainId.RINKEBY]: '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
