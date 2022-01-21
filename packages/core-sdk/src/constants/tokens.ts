@@ -136,7 +136,7 @@ export const WNATIVE: TokenMap = {
   [ChainId.TELOS]: new Token(ChainId.TELOS, WNATIVE_ADDRESS[ChainId.TELOS], 18, 'WTLOS', 'Wrapped Telos'),
 }
 
-export const CNDL: ChainTokenMap = {
+export const CANDLE: ChainTokenMap = {
   [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, CANDLE_ADDRESS[ChainId.ETHEREUM], 18, 'CNDL', 'Candle'),
   [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, CANDLE_ADDRESS[ChainId.ROPSTEN], 18, 'CNDL', 'Candle'),
   [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, CANDLE_ADDRESS[ChainId.RINKEBY], 18, 'CNDL', 'Candle'),
